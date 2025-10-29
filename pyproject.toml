@@ -12,6 +12,7 @@ dependencies = [
     "langgraph>=0.0.20",
     "langchain-core>=0.1.0",
     "python-dotenv>=1.0.0",
+    "langchain-chroma>=1.0.0",
 ]
 
 [project.optional-dependencies]
